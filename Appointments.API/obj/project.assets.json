@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\caua.cardoso\\.nuget\\packages\\": {}
+    "C:\\Users\\leonardo.santos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.API\\Appointments.API.csproj",
+      "projectUniqueName": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.API\\Appointments.API.csproj",
       "projectName": "Appointments.API",
-      "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.API\\Appointments.API.csproj",
-      "packagesPath": "C:\\Users\\caua.cardoso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.API\\obj\\",
+      "projectPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.API\\Appointments.API.csproj",
+      "packagesPath": "C:\\Users\\leonardo.santos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\caua.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\leonardo.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
