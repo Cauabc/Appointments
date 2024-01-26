@@ -107,6 +107,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Appointments.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Appointments.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Appointments.Domain.dll": {}
+        }
+      },
+      "Appointments.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Appointments.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Appointments.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Appointments.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -460,10 +483,22 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Appointments.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Appointments.Domain/Appointments.Domain.csproj",
+      "msbuildProject": "../Appointments.Domain/Appointments.Domain.csproj"
+    },
+    "Appointments.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Appointments.Infrastructure/Appointments.Infrastructure.csproj",
+      "msbuildProject": "../Appointments.Infrastructure/Appointments.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Appointments.Domain >= 1.0.0",
+      "Appointments.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.14",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -494,7 +529,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj": {
+              "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj"
+            },
+            "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

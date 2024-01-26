@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Appointments.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Appointments.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Appointments.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Appointments.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Appointments.Domain/Appointments.Domain.csproj",
+      "msbuildProject": "../Appointments.Domain/Appointments.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Appointments.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\caua.cardoso\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj": {
+              "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
