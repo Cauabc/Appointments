@@ -1,0 +1,12 @@
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\bin\Debug\net7.0\Appointments.Domain.deps.json
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\bin\Debug\net7.0\Appointments.Domain.dll
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\bin\Debug\net7.0\Appointments.Domain.pdb
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\obj\Debug\net7.0\Appointments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\obj\Debug\net7.0\Appointments.Domain.AssemblyInfoInputs.cache
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\obj\Debug\net7.0\Appointments.Domain.AssemblyInfo.cs
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\obj\Debug\net7.0\Appointments.Domain.csproj.CoreCompileInputs.cache
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\obj\Debug\net7.0\Appointments.Domain.sourcelink.json
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\obj\Debug\net7.0\Appointments.Domain.dll
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\obj\Debug\net7.0\refint\Appointments.Domain.dll
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\obj\Debug\net7.0\Appointments.Domain.pdb
+C:\Users\caua.cardoso\Desktop\Appointments\Appointments.Domain\obj\Debug\net7.0\ref\Appointments.Domain.dll

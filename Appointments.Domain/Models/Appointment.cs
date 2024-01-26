@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Appointments.Domain.Models
 {
-    public class Appointments
+    public class Appointment
     {
         public Guid Id { get; set; } = Guid.NewGuid();
         public string Name { get; set; } = string.Empty;
