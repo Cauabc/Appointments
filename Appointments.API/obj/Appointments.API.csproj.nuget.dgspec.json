@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.API\\Appointments.API.csproj": {}
+    "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.API\\Appointments.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.API\\Appointments.API.csproj": {
+    "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.API\\Appointments.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.API\\Appointments.API.csproj",
+        "projectUniqueName": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.API\\Appointments.API.csproj",
         "projectName": "Appointments.API",
-        "projectPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.API\\Appointments.API.csproj",
-        "packagesPath": "C:\\Users\\leonardo.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.API\\obj\\",
+        "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.API\\Appointments.API.csproj",
+        "packagesPath": "C:\\Users\\caua.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leonardo.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caua.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj": {
-                "projectPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj"
+              "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj": {
+                "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj"
               },
-              "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj"
+              "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj"
               }
             }
           }
@@ -79,17 +79,17 @@
         }
       }
     },
-    "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj": {
+    "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj",
         "projectName": "Appointments.Domain",
-        "projectPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj",
-        "packagesPath": "C:\\Users\\leonardo.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Domain\\obj\\",
+        "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj",
+        "packagesPath": "C:\\Users\\caua.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leonardo.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caua.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,17 +134,17 @@
         }
       }
     },
-    "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj": {
+    "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj",
         "projectName": "Appointments.Infrastructure",
-        "projectPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\leonardo.santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\caua.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leonardo.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caua.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,8 +158,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj": {
-                "projectPath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj"
+              "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj": {
+                "projectPath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.Domain\\Appointments.Domain.csproj"
               }
             }
           }
