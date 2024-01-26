@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Q3d2L3YGL96ios19c6KzpxBt/uvso30qpt+NJIdbQ/X0chomS4pPLgrYk1bO1HWiZDSUe3tELducaRuoB9R4Qw==",
+  "dgSpecHash": "+Eu73T8+adNLsqOIXNz+rPNBwxVsPcKV4NCuWo/Jx+nwHAfdMwqMS/YXmFAlVsEEpYJnRtDE9TB0T4EGPdEZ2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Infrastructure\\Appointments.Infrastructure.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\leonardo.santos\\Desktop\\Workbench\\Work\\Appointments\\Appointments.Infrastructure\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
