@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJlKw+Z2RXXM3auySUS56Gl6QM4aSgnik0THpPe/as1DOBxbmAu0t/aR2sgLlZgnjLq9B2x64y3WwHLPZb2ldw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caua.cardoso\\Desktop\\Appointments\\Appointments.API\\Appointments.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caua.cardoso\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "C:\\Users\\caua.cardoso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\caua.cardoso\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\caua.cardoso\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\caua.cardoso\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\caua.cardoso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\caua.cardoso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
